@@ -1,0 +1,25 @@
+- Questions and Notes App
+
+ -> A web app where we can share our questions and notes.
+ -> Every semester/course will have separate section.
+ -> Will allow you to choose necessery course and you can also select which year you're currently doing right now.
+ -> Can also change them according to the change in your year.
+ -> You can also find questions papers and notes by searching or via looking up profiles.
+ -> Will have a login process.
+ -> Teachers will have to verify if they're joining the app so they can get some admin privilage.
+ -> If you verified as a teacher you will get a verified badge with your name on the profile.
+
+
+- Building the damn thing
+
+ -> Frontend - HTML, CSS, JavaScript/PHP/Java.
+ -> Backend - MYSQL(for storing data)/Node.js.
+ -> Hosting - github pages(https://github.com/)/Namecheap.
+
+ 
+ - Requirements
+
+ -> Some default notes.
+ -> Some deafult questions.
+ -> Pc/Lab with some good amount of ram and less lag.
+
